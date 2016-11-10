@@ -23,7 +23,7 @@ namespace Game.Web.Controllers
         {
             GameManager.GetStartSecretWord(typeOfModel);
 
-            GameViewModel model = new GameViewModel
+            var model = new GameViewModel
             {
                 FullWord = Word.FullWord,
                 PartialWord = Word.PartialWord,
@@ -37,7 +37,7 @@ namespace Game.Web.Controllers
         [HttpGet]
         public ActionResult GuessLetter(string letter)
         {
-            GameViewModel model = new GameViewModel
+            var model = new GameViewModel
             {
                 FullWord = Word.FullWord,
                 PartialWord = Word.PartialWord,

@@ -1,4 +1,15 @@
-﻿
+﻿$(function () {
+
+    $('#select-type').on('change', function () {
+        if (this.value === '1' | this.value === '2' | this.value === '3') {
+            $("#select-type-of-word").show();
+        } else {
+            $("#select-type-of-word").hide();
+        }
+    });
+
+
+});
 function clearTextBox() {
     var inputTextElement = document.getElementById("letter");
     inputTextElement.value = "";

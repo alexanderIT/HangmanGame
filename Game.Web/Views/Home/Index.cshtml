@@ -1,17 +1,23 @@
-﻿
+﻿@model Game.Web.Models.HomeViewModel
 <div class="row">
     <div class="col-md-12">
         <div class="panel panel-default">
             <div class="panel-heading h4">The Hangman Game</div>
             <div class="panel-body">
                 <div class="panel">
+                    <div class="form-div">
+                        @Html.DropDownListFor(m => m.TypeOfWordId, Model.TypeOfWord, new {id ="select-type",@class = "form-control selectpicker", data_live_search = "true", title = @Html.DisplayNameFor(m => m.TypeOfWordId)})
+                    </div>
                     <span class="h5">Game Begin: </span>
-                        @Html.ActionLink("Start", "GameBegin", "Game", null, new { @class = "btn-warning" })
+                    <div id="select-type-of-word">
+                        @Html.ActionLink("Start", "GameBegin", "Game", new { typeOfModel = Model.TypeOfWordId}, new {@class = "btn-warning"})
+                    </div>
                 </div>
 
             </div>
         </div>
     </div>
 </div>
+@Scripts.Render("~/Scripts/hangman-game.js")
 
 
