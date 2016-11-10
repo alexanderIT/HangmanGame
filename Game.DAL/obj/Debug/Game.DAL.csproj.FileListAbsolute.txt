@@ -1,0 +1,32 @@
+c:\users\alexander\documents\visual studio 2015\Projects\Game.DAL\Game.DAL\bin\Debug\Game.DAL.dll
+c:\users\alexander\documents\visual studio 2015\Projects\Game.DAL\Game.DAL\bin\Debug\Game.DAL.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\Game.DAL\Game.DAL\obj\Debug\Game.DAL.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2015\Projects\Game.DAL\Game.DAL\obj\Debug\Game.DAL.dll
+c:\users\alexander\documents\visual studio 2015\Projects\Game.DAL\Game.DAL\obj\Debug\Game.DAL.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\Game.DAL\Game.DAL\bin\Debug\Game.DAL.DataObject.dll
+c:\users\alexander\documents\visual studio 2015\Projects\Game.DAL\Game.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\alexander\documents\visual studio 2015\Projects\Game.DAL\Game.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\alexander\documents\visual studio 2015\Projects\Game.DAL\Game.DAL\bin\Debug\EntityFramework.dll
+c:\users\alexander\documents\visual studio 2015\Projects\Game.DAL\Game.DAL\bin\Debug\Game.DAL.DataObject.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\Game.DAL\Game.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\alexander\documents\visual studio 2015\Projects\Game.DAL\Game.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\alexander\documents\visual studio 2015\Projects\Game.DAL\Game.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Alexander\Documents\visual studio 2015\Projects\Game.DAL\Game.DAL\bin\Debug\Game.DAL.dll.config
+C:\Users\Alexander\Documents\visual studio 2015\Projects\Game.DAL\Game.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexander\Documents\visual studio 2015\Projects\Game.DAL\Game.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.DAL\bin\Debug\Game.DAL.dll.config
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.DAL\bin\Debug\Game.DAL.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.DAL\bin\Debug\Game.DAL.pdb
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.DAL\bin\Debug\Game.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.DAL\bin\Debug\Game.pdb
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.DAL\obj\Debug\Game.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.DAL\obj\Debug\Game.DAL.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.DAL\obj\Debug\Game.DAL.pdb

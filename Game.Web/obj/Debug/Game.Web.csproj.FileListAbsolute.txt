@@ -1,0 +1,227 @@
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Hangman.Web.dll.config
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Hangman.Web.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Hangman.Web.pdb
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Antlr3.Runtime.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\EntityFramework.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Hangman.Data.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Hangman.Models.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Hangman.Repository.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.Owin.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Newtonsoft.Json.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Ninject.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Ninject.Web.Common.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Owin.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\PagedList.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\PagedList.Mvc.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\System.Web.Helpers.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\System.Web.Mvc.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\System.Web.Optimization.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\System.Web.Razor.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\System.Web.WebPages.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\WebActivator.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\WebGrease.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Hangman.Data.pdb
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Hangman.Models.pdb
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Hangman.Repository.pdb
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Ninject.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Ninject.Web.Common.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\PagedList.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\PagedList.Mvc.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\System.Web.Helpers.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\System.Web.Mvc.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\System.Web.Optimization.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\System.Web.Razor.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\System.Web.WebPages.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Newtonsoft.Json.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\EntityFramework.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.Owin.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\obj\Debug\Game.Web.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\obj\Debug\Hangman.Web.dll
+C:\Users\Alexander\Desktop\Projects.ASP.NET-MVC-master\Projects.ASP.NET-MVC-master\Hangman\Hangman.Web\obj\Debug\Hangman.Web.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\obj\Debug\Game.Web.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Antlr3.Runtime.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\EntityFramework.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Game.BL.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Game.DAL.DataObject.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Game.DAL.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.Owin.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Newtonsoft.Json.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Ninject.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Ninject.Web.Common.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Owin.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\PagedList.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\PagedList.Mvc.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\System.Web.Helpers.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\System.Web.Mvc.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\System.Web.Optimization.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\System.Web.Razor.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\System.Web.WebPages.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\WebActivator.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\WebGrease.dll
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Game.BL.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Game.DAL.DataObject.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Game.DAL.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\EntityFramework.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.Owin.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Ninject.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Ninject.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Ninject.Web.Common.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Ninject.Web.Common.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Ninject.Web.Mvc.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\PagedList.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\PagedList.Mvc.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\System.Web.Helpers.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\System.Web.Mvc.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\System.Web.Optimization.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\System.Web.Razor.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\System.Web.WebPages.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Newtonsoft.Json.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alexander\Documents\visual studio 2015\Projects\Game.DAL\Game.Web\bin\Game.Web.dll.config
+C:\Users\Alexander\Documents\visual studio 2015\Projects\Game.DAL\Game.Web\bin\Game.Web.dll
+C:\Users\Alexander\Documents\visual studio 2015\Projects\Game.DAL\Game.Web\bin\Game.Web.pdb
+C:\Users\Alexander\Documents\visual studio 2015\Projects\Game.DAL\Game.Web\obj\Debug\Game.Web.dll
+C:\Users\Alexander\Documents\visual studio 2015\Projects\Game.DAL\Game.Web\obj\Debug\Game.Web.pdb
+C:\Users\Alexander\Documents\visual studio 2015\Projects\Game.DAL\Game.Web\bin\Hangman.Models.dll
+C:\Users\Alexander\Documents\visual studio 2015\Projects\Game.DAL\Game.Web\bin\Hangman.Data.pdb
+C:\Users\Alexander\Documents\visual studio 2015\Projects\Game.DAL\Game.Web\bin\Hangman.Models.pdb
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Game.Web.dll.config
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Game.Web.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Game.Web.pdb
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Antlr3.Runtime.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\EntityFramework.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Game.BL.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Game.DAL.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Game.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.Owin.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Newtonsoft.Json.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Ninject.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Ninject.Web.Common.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Owin.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\PagedList.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\PagedList.Mvc.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\System.Web.Helpers.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\System.Web.Mvc.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\System.Web.Optimization.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\System.Web.Razor.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\System.Web.WebPages.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\WebActivator.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\WebGrease.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Hangman.Models.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Game.BL.pdb
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Game.pdb
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Game.DAL.pdb
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\EntityFramework.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Hangman.Data.pdb
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.Owin.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Ninject.pdb
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Ninject.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Ninject.Web.Common.pdb
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Ninject.Web.Common.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Ninject.Web.Mvc.pdb
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\PagedList.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\PagedList.Mvc.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\System.Web.Helpers.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\System.Web.Mvc.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\System.Web.Optimization.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\System.Web.Razor.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\System.Web.WebPages.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Newtonsoft.Json.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\bin\Hangman.Models.pdb
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\obj\Debug\Game.Web.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\obj\Debug\Game.Web.dll
+C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.Web\obj\Debug\Game.Web.pdb

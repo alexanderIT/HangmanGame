@@ -1,0 +1,25 @@
+﻿@model System.Char[]
+
+<div>
+    <h2 class="header">Game Over</h2>
+    <div class="well" id="gameover">
+
+        <span>
+            The word is:
+        </span>
+
+        @{
+            if (Model != null)
+            {
+                for (int i = 0; i < Model.Length; i++)
+                {
+                    <strong>@Model[i]</strong>
+                }
+            }
+        }
+    </div>
+
+    <div class="alert alert-dismissable" id="gameover">
+        @Html.ActionLink("Play again", "GameBegin", "Game", null, new { @class = "btn-success" })
+    </div>
+</div>

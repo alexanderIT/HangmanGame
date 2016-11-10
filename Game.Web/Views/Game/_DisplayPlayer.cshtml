@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Game.Web.Models.PlayerViewModel>
+
+<table class="table table-bordered table-condensed ">
+    <tr>
+        <th class="alert alert-info">
+            Index
+        </th>
+        <th class="alert alert-info">
+            @Html.DisplayNameFor(model => model.FirstOrDefault().Name)
+        </th>
+        <th class="alert alert-info">
+            @Html.DisplayNameFor(model => model.FirstOrDefault().Score)
+        </th>
+</table>
+
+
+

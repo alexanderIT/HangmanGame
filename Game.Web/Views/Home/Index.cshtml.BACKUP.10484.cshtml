@@ -1,0 +1,39 @@
+﻿
+<div class="row">
+    <div class="col-md-12">
+        <div class="panel panel-default">
+            <div class="panel-heading h4">The Hangman</div>
+            <div class="panel-body">
+                <div class="well">
+                    <span class="h5">Start the game</span>
+                        @Html.ActionLink("Start", "StartGame", "Game", null, new { @class = "btn btn-success" })
+                   
+                </div>
+<<<<<<< HEAD
+				<div class="git test">git</div>
+=======
+				<div class="my git test"></div>
+>>>>>>> 30fdd73eaf58bd6e9b88290535a05802fec1d003
+
+                <div class=" panel panel-default">
+                    <canvas id="canvasElement" width="500" height="500"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section scripts{
+    <script>
+        (function drawTheHangman() {
+            drawHangman.drawHead();
+            drawHangman.drawBody();
+            drawHangman.drawHands();
+            drawHangman.drawLegs();
+            drawHangman.drawMouth();
+        })();
+    </script>
+}
+
+

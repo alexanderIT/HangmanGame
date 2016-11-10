@@ -1,0 +1,30 @@
+﻿@model System.Char[]
+<div id="wrapperDiv">
+    <h2 class="header">Winner</h2>
+    <div id="winner" class="alert alert-success">
+
+        <span>
+            The word is:
+        </span>
+
+        @{
+            if (Model != null)
+            {
+                for (int i = 0; i < Model.Length; i++)
+                {
+                    <strong class="lead">@Model[i]</strong>
+                }
+            }
+        }
+    </div>
+
+    <div class="alert alert-dismissable" id="gameover">
+        @Html.ActionLink("Play again", "GameBegin", "Game", null, new { @class = "btn-warning" })
+    </div>
+
+    <script>
+        $("#form-wrapper").hide();
+    </script>
+</div>
+
+
