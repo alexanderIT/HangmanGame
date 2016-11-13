@@ -9,6 +9,10 @@ namespace Game.DAL.DataObject
         public int WinGames { get; set; }
 
         public int LoseGames { get; set; }
+
+        public int MadeAssumptions { get; set; }
+
+        public int GuessWholeWord { get; set; }
     }
 }
     

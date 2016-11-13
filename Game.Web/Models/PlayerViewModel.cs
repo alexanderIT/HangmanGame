@@ -15,5 +15,9 @@ namespace Game.Web.Models
 
         public int LoseGames { get; set; }
 
+        public int MadeAssumptions { get; set; }
+
+        public int GuessWholeWord { get; set; }
+
     }
 }

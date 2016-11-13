@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using Game.BL;
+using Game.DAL.DataObject;
 using Game.Web.Models;
 using Microsoft.AspNet.Identity;
 
@@ -16,6 +17,12 @@ namespace Game.Web.Controllers
         public GameController()
         {
             _userList = GetAllPlayers();
+        }
+
+        private ApplicationUser GetCurrentUser()
+        {
+            var userId = this.User.Identity.GetUserId();
+            return UserManager.FindById(userId);
         }
 
         [HttpGet]
@@ -47,9 +54,20 @@ namespace Game.Web.Controllers
 
             if (string.IsNullOrEmpty(letter) && GameManager.guesses > 0)
             {
+
+                var user = GetCurrentUser();
+                user.MadeAssumptions = user.MadeAssumptions + 1;
                 return PartialView("_SecretWord", model);
             }
 
+
+            if (GameManager.TryGuessWholeWord(letter))
+            {
+                var user = GetCurrentUser();
+                user.GuessWholeWord = user.GuessWholeWord + 1;
+                return RedirectToAction("Winner");
+            }
+           
             GameManager.SearchLetter(letter);
 
             model.Guesses = GameManager.guesses;
@@ -76,8 +94,7 @@ namespace Game.Web.Controllers
 
         public ActionResult Winner()
         {
-            var userId = this.User.Identity.GetUserId();
-            var user = UserManager.FindById(userId);
+            var user = GetCurrentUser();
             user.Score = user.Score + 1;
             user.WinGames = user.WinGames + 1;
             UserManager.Update(user);
@@ -88,8 +105,7 @@ namespace Game.Web.Controllers
 
         public ActionResult GameOver()
         {
-            var userId = this.User.Identity.GetUserId();
-            var user = UserManager.FindById(userId);
+            var user = GetCurrentUser();
             user.LoseGames = user.LoseGames + 1;
             return PartialView("_GameOver", Word.FullWord);
         }
@@ -103,7 +119,8 @@ namespace Game.Web.Controllers
                 Name = item.UserName,
                 Score = item.Score,
                 WinGames = item.WinGames,
-                LoseGames = item.LoseGames
+                LoseGames = item.LoseGames,
+                MadeAssumptions = item.MadeAssumptions
             }).ToList();
         }
     }

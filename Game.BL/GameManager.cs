@@ -83,6 +83,21 @@ namespace Game.BL
 
         }
 
+        public bool TryGuessWholeWord(string letter)
+        {
+            bool isFound = false;
+            char charLetter = char.Parse(letter);
+
+            foreach (char wordLetter in Word.FullWord)
+            {
+                if (char.ToLower(wordLetter) == char.ToLower(charLetter))
+                {
+                    isFound = true;                  
+                }
+            }
+            return isFound;
+        }
+
         public void SearchLetter(string letter)
         {
             bool isFound = false;
