@@ -1,5 +1,4 @@
 ﻿@model IEnumerable<Game.Web.Models.PlayerViewModel>
-
 <table class="table table-bordered table-condensed ">
     <tr>
         <th class="alert alert-info">
@@ -11,7 +10,11 @@
         <th class="alert alert-info">
             @Html.DisplayNameFor(model => model.FirstOrDefault().Score)
         </th>
+        <th class="alert alert-info">
+            @Html.DisplayNameFor(model => model.FirstOrDefault().WinGames)
+        </th>
+        <th class="alert alert-info">
+            @Html.DisplayNameFor(model => model.FirstOrDefault().LoseGames)
+        </th>
 </table>
-
-
 

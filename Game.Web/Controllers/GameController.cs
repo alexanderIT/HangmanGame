@@ -79,6 +79,7 @@ namespace Game.Web.Controllers
             var userId = this.User.Identity.GetUserId();
             var user = UserManager.FindById(userId);
             user.Score = user.Score + 1;
+            user.WinGames = user.WinGames + 1;
             UserManager.Update(user);
 
 
@@ -87,7 +88,9 @@ namespace Game.Web.Controllers
 
         public ActionResult GameOver()
         {
-
+            var userId = this.User.Identity.GetUserId();
+            var user = UserManager.FindById(userId);
+            user.LoseGames = user.LoseGames + 1;
             return PartialView("_GameOver", Word.FullWord);
         }
 
@@ -99,6 +102,8 @@ namespace Game.Web.Controllers
             {
                 Name = item.UserName,
                 Score = item.Score,
+                WinGames = item.WinGames,
+                LoseGames = item.LoseGames
             }).ToList();
         }
     }

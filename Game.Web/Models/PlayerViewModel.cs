@@ -10,5 +10,10 @@ namespace Game.Web.Models
         public string Name { get; set; }
 
         public int Score { get; set; }
+
+        public int WinGames { get; set; }
+
+        public int LoseGames { get; set; }
+
     }
 }

@@ -39,3 +39,4 @@ C:\Users\Administrator\Desktop\Hangman\Game.DAL.DataObject\bin\Debug\Microsoft.A
 C:\Users\Administrator\Desktop\Hangman\Game.DAL.DataObject\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\Administrator\Desktop\Hangman\Game.DAL.DataObject\obj\Debug\Game.dll
 C:\Users\Administrator\Desktop\Hangman\Game.DAL.DataObject\obj\Debug\Game.pdb
+C:\Users\Administrator\Desktop\Hangman\Game.DAL.DataObject\obj\Debug\Game.DAL.DataObject.csprojResolveAssemblyReference.cache
