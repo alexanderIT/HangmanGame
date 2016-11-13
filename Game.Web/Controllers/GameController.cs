@@ -19,9 +19,9 @@ namespace Game.Web.Controllers
         }
 
         [HttpGet]
-        public ActionResult GameBegin(int typeOfModel)
+        public ActionResult GameBegin(int typeOfModelId)
         {
-            GameManager.GetStartSecretWord(typeOfModel);
+            GameManager.GetStartSecretWord(typeOfModelId);
 
             var model = new GameViewModel
             {

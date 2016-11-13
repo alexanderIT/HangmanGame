@@ -86,11 +86,7 @@ namespace Game.BL
         public void SearchLetter(string letter)
         {
             bool isFound = false;
-
-            //char[] letterArray = letter.ToCharArray();
             char charLetter = char.Parse(letter);
-
-
 
             for (int k = 0; k < Word.FullWord.Length; k++)
             {
@@ -135,7 +131,6 @@ namespace Game.BL
 
             var secretWord = GenerateRandomWord(typeOfModel);
             Word.FullWord = ConvertModelNameToArray(secretWord);
-
         }
 
         private static IEnumerable<Town> GetAllTowns()

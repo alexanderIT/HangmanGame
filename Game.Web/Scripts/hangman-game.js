@@ -28,7 +28,6 @@ var asyncSendKey = function () {
         };
 
         $.ajax(options).done(function(data) {
-
             var target = $("#secretWord");
             $(target).html(data);
         });
