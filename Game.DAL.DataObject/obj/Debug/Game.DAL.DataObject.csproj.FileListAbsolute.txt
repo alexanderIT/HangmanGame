@@ -26,3 +26,16 @@ C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.DAL.DataObject\bin\Debug\Micros
 C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.DAL.DataObject\obj\Debug\Game.DAL.DataObject.csprojResolveAssemblyReference.cache
 C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.DAL.DataObject\obj\Debug\Game.dll
 C:\Users\Alexander\Desktop\Hangman\Game.DAL\Game.DAL.DataObject\obj\Debug\Game.pdb
+C:\Users\Administrator\Desktop\Hangman\Game.DAL.DataObject\bin\Debug\Game.dll.config
+C:\Users\Administrator\Desktop\Hangman\Game.DAL.DataObject\bin\Debug\Game.dll
+C:\Users\Administrator\Desktop\Hangman\Game.DAL.DataObject\bin\Debug\Game.pdb
+C:\Users\Administrator\Desktop\Hangman\Game.DAL.DataObject\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\Hangman\Game.DAL.DataObject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\Hangman\Game.DAL.DataObject\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\Hangman\Game.DAL.DataObject\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\Hangman\Game.DAL.DataObject\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\Hangman\Game.DAL.DataObject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\Hangman\Game.DAL.DataObject\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Desktop\Hangman\Game.DAL.DataObject\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Desktop\Hangman\Game.DAL.DataObject\obj\Debug\Game.dll
+C:\Users\Administrator\Desktop\Hangman\Game.DAL.DataObject\obj\Debug\Game.pdb

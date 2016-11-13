@@ -5,7 +5,7 @@
             <div class="panel-heading h4">The Hangman Game</div>
             <div class="panel-body">
                 <div class="panel">
-                    <div class="form-div">
+                    <div>
                         @Html.DropDownListFor(m => m.TypeOfWordId, Model.TypeOfWord, new {id ="select-type",@class = "form-control selectpicker", data_live_search = "true", title = @Html.DisplayNameFor(m => m.TypeOfWordId)})
                     </div>
                     <span class="h5">Game Begin: </span>
