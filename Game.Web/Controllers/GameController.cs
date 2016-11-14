@@ -67,6 +67,12 @@ namespace Game.Web.Controllers
                 user.GuessWholeWord = user.GuessWholeWord + 1;
                 return RedirectToAction("Winner");
             }
+            else
+            {
+                var user = GetCurrentUser();
+                user.LoseGames = user.LoseGames + 1;
+                GameManager.guesses = 0;
+            }
            
             GameManager.SearchLetter(letter);
 
